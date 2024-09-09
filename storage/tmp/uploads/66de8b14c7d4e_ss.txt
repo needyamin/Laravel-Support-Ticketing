@@ -1,0 +1,50 @@
+#### OTITHEE.COM #####
+1. Shared Room DataTable Issues
+2. Inactive Hotel Apps & Web
+
+
+
+
+        if($data['property_name']){
+            $propertyName = $data['property_name'];
+            $result->where('title','like','%'.$propertyName.'%')
+                ->orWhere('short_description','like','%'.$propertyName.'%')
+                ->orWhere('description','like','%'.$propertyName.'%')
+                ->where('status',1)
+                ->where('availability',1)
+                ->orWhere('address','like','%'.$propertyName.'%');
+        }
+
+
+
+
+CLASSIC SEA RESORT LTD	
+
+
+where('status',1)->where('availability',1);
+
+
+
+
+
+
+01959038282
+Seagull Hotel
+ kolatoli,Cox’s' bazar, Coxsbazar Sadar, Coxsbazar, Chattogram
+ Hotel Type: 7 Star
+
+Hill View Sea View Beach view Bar Saloon Primary Treatment Live MusicSpaGym Rooftop
+
+Welcome to Seagull Hotels Ltd..
+
+
+01300511222
+MODERN RESORT COX'S BAZAR
+
+
+
+
+
+Make ShowNirvor Account Tonmoy Bhai Instruction:
+
+

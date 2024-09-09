@@ -1,0 +1,5 @@
+[09-Sep-2024 09:09:27 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home/otitheeg/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
+[09-Sep-2024 09:11:14 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home/otitheeg/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
+[09-Sep-2024 09:29:37 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home/otitheeg/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
+[09-Sep-2024 09:29:41 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home/otitheeg/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
+[09-Sep-2024 09:30:04 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home/otitheeg/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154

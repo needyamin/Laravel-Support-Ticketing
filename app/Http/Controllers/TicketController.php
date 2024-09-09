@@ -30,6 +30,7 @@ class TicketController extends Controller
      */
     public function store(Request $request)
     {
+ 
         $request->validate([
             'title'         => 'required',
             'content'       => 'required',
@@ -43,6 +44,7 @@ class TicketController extends Controller
             'priority_id'   => 1
         ]);
 
+        
         $ticket = Ticket::create($request->all());
 
         foreach ($request->input('attachments', []) as $file) {
